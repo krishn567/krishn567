@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center; padding: 20px;">
-  <img src="https://github.com/username=PoojanDoshi11/assets-for-profile/blob/main/animated-image.gif" 
+  <img src="https://github.com/PoojanDoshi11/assets-for-profile/blob/main/Animation%20-%201732092305896.gif" 
        alt="Animated Waving Character" 
        style="width: 300px; height: auto; margin-bottom: 20px;">
   <h1 style="font-size: 2.5em; color: #333; margin: 0;">Hey there! I'm Krishn</h1>
