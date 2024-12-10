@@ -64,7 +64,7 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="www.linkedin.com/in/krishnbutani">
+  <a href="https://www.linkedin.com/in/krishnbutani/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:krishnpatel347@gmail.com">
