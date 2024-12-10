@@ -1,65 +1,100 @@
-# 👋 Hi, I'm Krishn!
+<div align="center" style="text-align: center; padding: 20px;">
+  <img src="https://github.com/your-username/assets-for-profile/blob/main/animated-image.gif" 
+       alt="Animated Waving Character" 
+       style="width: 300px; height: auto; margin-bottom: 20px;">
+  <h1 style="font-size: 2.5em; color: #333; margin: 0;">Hey there! I'm Krishn</h1>
+  <h3 style="font-size: 1.5em; color: #555; margin: 0;">Welcome to my GitHub profile!</h3>
+</div>
 
-I'm a passionate **Frontend Developer** 🚀 specializing in creating dynamic, user-friendly websites and applications. With experience in modern frameworks and styling libraries, I love building projects that deliver an exceptional user experience.
+<hr style="border:1px solid #FF5733; width:80%; margin:auto;">
 
----
+## 💻 Dynamic Skills
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Front-End+Development;ReactJS+Expert;MongoDB+Enthusiast;Tailwind+CSS+Specialist" alt="Dynamic Skills Typing">
+</div>
 
-## 🛠️ Skills and Technologies
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<table align="center">
+  <tr>
+    <td>🎨 <b>Front-End Development</b></td>
+    <td>Building responsive and visually appealing web pages.</td>
+  </tr>
+  <tr>
+    <td>⚛️ <b>ReactJS</b></td>
+    <td>Creating modern, interactive UI components with hooks and state management.</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>MongoDB</b></td>
+    <td>Designing databases for scalable and efficient web apps.</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Tailwind CSS</b></td>
+    <td>Styling websites with utility-first principles for faster design.</td>
+  </tr>
+</table>
 
----
+<hr>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="GitHub Trophies">
+</div>
+<hr>
+
+## 🚀 Current Learning Goals
+- 🌱 Mastering advanced **ReactJS** concepts like custom hooks and context API.  
+- 🧠 Exploring **MongoDB Atlas** for cloud-based database management.  
+- 🎨 Creating reusable **Tailwind CSS components** for future projects.
+
+<hr>
+
+## 🔨 Ongoing Projects
+1. **E-commerce Website**  
+   Building a fully functional e-commerce app using ReactJS and Tailwind CSS.
+
+2. **Skill Swap Platform**  
+   A web app for matching skills and connecting job seekers with opportunities.
+
+3. **Portfolio Website**  
+   Creating a visually stunning personal portfolio to showcase my projects and skills.
+
+<hr>
+
+## 🛠️ Technologies I Use
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+<hr>
+
+## 📫 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<hr>
 
 ## 📈 GitHub Stats
-![Krishn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&theme=radical" alt="GitHub Streak">
+</div>
 
----
+<hr>
 
-## 🔥 Featured Projects
-
-### 🌐 [React E-commerce Website](#)
-A fully functional e-commerce platform built with **React** and **TailwindCSS**.
-- **Features:** Product sliders, cart functionality, and responsive design.
-- **Tech Stack:** React, TailwindCSS
-- **[Live Demo](#)** | **[Source Code](#)**
-
-### 📚 [MongoDB-React CRUD App](#)
-A beginner-friendly app to demonstrate CRUD operations using **MongoDB** and **React**.
-- **Features:** Add, edit, and delete items.
-- **Tech Stack:** React, MongoDB
-- **[Live Demo](#)** | **[Source Code](#)**
-
-### 🎨 [Personal Portfolio Website](#)
-A sleek portfolio website built with **HTML**, **CSS**, and **Bootstrap** to showcase my projects.
-- **Features:** Responsive design, smooth animations.
-- **Tech Stack:** HTML, CSS, Bootstrap
-- **[Live Demo](#)** | **[Source Code](#)**
-
-### 🛠️ [TailwindCSS Component Library](#)
-Reusable UI components designed with **TailwindCSS** for faster development.
-- **Features:** Pre-designed buttons, modals, and cards.
-- **Tech Stack:** TailwindCSS
-- **[Live Demo](#)** | **[Source Code](#)**
-
----
-
-## 🚀 What I'm Learning
-I'm currently exploring:
-- Advanced **React Concepts** (Hooks, Context API)
-- **RESTful APIs** and backend integration with **MongoDB**.
-
----
-
-## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** YourEmail@example.com
-
----
-
-Thank you for visiting my profile! Let's collaborate and build amazing things together!
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  <h2>Let's Code and Create Together!</h2>
+</div>
