@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center; padding: 20px;">
-  <img src="https://github.com/your-username/assets-for-profile/blob/main/animated-image.gif" 
+  <img src="https://github.com/PoojanDoshi11/assets-for-profile/blob/main/animated-image.gif" 
        alt="Animated Waving Character" 
        style="width: 300px; height: auto; margin-bottom: 20px;">
   <h1 style="font-size: 2.5em; color: #333; margin: 0;">Hey there! I'm Krishn</h1>
@@ -10,7 +10,7 @@
 
 ## 💻 Dynamic Skills
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Front-End+Development;ReactJS+Expert;MongoDB+Enthusiast;Tailwind+CSS+Specialist" alt="Dynamic Skills Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Front-End+Development;ReactJS+Expert;Tailwind+CSS+Specialist" alt="Dynamic Skills Typing">
 </div>
 
 <table align="center">
@@ -36,7 +36,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishn567&theme=onedark" alt="GitHub Trophies">
 </div>
 <hr>
 
@@ -44,18 +44,6 @@
 - 🌱 Mastering advanced **ReactJS** concepts like custom hooks and context API.  
 - 🧠 Exploring **MongoDB Atlas** for cloud-based database management.  
 - 🎨 Creating reusable **Tailwind CSS components** for future projects.
-
-<hr>
-
-## 🔨 Ongoing Projects
-1. **E-commerce Website**  
-   Building a fully functional e-commerce app using ReactJS and Tailwind CSS.
-
-2. **Skill Swap Platform**  
-   A web app for matching skills and connecting job seekers with opportunities.
-
-3. **Portfolio Website**  
-   Creating a visually stunning personal portfolio to showcase my projects and skills.
 
 <hr>
 
@@ -76,10 +64,10 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="www.linkedin.com/in/krishnbutani">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:krishnpatel347@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -88,8 +76,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&theme=radical" alt="GitHub Streak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish567&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishn567&hide_border=true&theme=radical" alt="GitHub Streak">
 </div>
 
 <hr>
