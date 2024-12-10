@@ -13,6 +13,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Front-End+Development;ReactJS+Expert;Tailwind+CSS+Specialist" alt="Dynamic Skills Typing">
 </div>
 
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" fill="#FF5733" />
+  <text x="50%" y="50%" font-size="48" font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF" text-anchor="middle" alignment-baseline="central">
+    Krishn
+  </text>
+</svg>
+
+
 <table align="center">
   <tr>
     <td>🎨 <b>Front-End Development</b></td>
